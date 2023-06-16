@@ -1,2 +1,2 @@
 # ImageSets
-restore image
+restore images
